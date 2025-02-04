@@ -6,4 +6,4 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
-This is a simple readme file for the project tha
+This is a simple readme file for the projec
